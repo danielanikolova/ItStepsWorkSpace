@@ -1,0 +1,19 @@
+package GameTask;
+
+public class Player {
+
+	public Player(String massage) {
+		// TODO Auto-generated constructor stub
+	}
+
+	public void setNextPlayer(Player nextPlayer) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public void play() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}
